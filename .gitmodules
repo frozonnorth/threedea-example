@@ -1,0 +1,3 @@
+[submodule "Assets/SteamVR"]
+	path = Assets/SteamVR
+	url = git@github.com:igorrafael/steamvr_unity_plugin.git
