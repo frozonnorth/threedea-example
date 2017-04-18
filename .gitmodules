@@ -5,3 +5,6 @@
 	path = Assets/EditorVR
 	url = https://github.com/Unity-Technologies/EditorVR
 	branch = development
+[submodule "Assets/Threedea"]
+	path = Assets/Threedea
+	url = https://github.com/igorrafael/threedea.git
