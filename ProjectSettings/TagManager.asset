@@ -9,6 +9,7 @@ TagManager:
   - VRPlayer
   - FxTemporaire
   - projectile
+  - Link handle
   layers:
   - Default
   - TransparentFX
